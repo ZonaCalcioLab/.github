@@ -43,9 +43,9 @@ Il nostro obiettivo è colmare il divario tra dati complessi e decisioni sul cam
 | Categoria | Strumenti & Tecnologie |
 | :--- | :--- |
 | **Data Science & Analytics** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
-| **Video & Tagging Analysis** | Once Sport, Kinovea, LongoMatch, Custom Tagging Dashboards |
+| **Video & Tagging Analysis** | Once Sport, SICS, LongoMatch, YouCoach, Custom Tagging Dashboards |
 | **Development & Automation** | React Native, Python scripting, REST APIs |
-| **Reporting & Visuals** | Streamlit, Markdown / LaTeX, Data Visualization dashboards |
+| **Reporting & Visuals** | Markdown / LaTeX, Data Visualization dashboards |
 
 </div>
 
